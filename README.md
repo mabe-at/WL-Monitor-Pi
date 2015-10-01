@@ -11,7 +11,7 @@ usage: ./monitor.py [-h] [-t time] -k apikey rbl [rbl ...]
 
 arguments:
   -k, --key=	API key
-  rbl		RBL number
+  rbl           RBL number
 
 optional arguments:
   -h, --help	show this help
