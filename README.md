@@ -1,6 +1,8 @@
 # WL-Monitor-Pi
 Data Source: City of Vienna (Stadt Wien) - https://data.wien.gv.at
 
+Here is the corresponding Alexa skill [WL-Monitor-Pi-Alexa](https://github.com/mabe-at/WL-Monitor-Pi-Alexa).
+
 Wiener Linien Departure Monitor with Raspberry Pi  
 Quick and dirty python script for monitoring departures of lines at certain stations towards certain directions.
 
